@@ -17,8 +17,8 @@ int main()
     int flag = 1;
 
     // Uso de doble del ciclo For para rellenar la matriz de alumnos matriculados con los datos generados por elcomando rand()
-    for (int i = 0; i < 5; i++){
-        for (int j = 0; j < 7; j++){
+    for (int i = 0; i < 23; i++){
+        for (int j = 0; j < 3; j++){
             {
                 semestre[23][3] = rand() % 11;
             }
